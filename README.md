@@ -15,7 +15,7 @@ The project focuses on building a **playable foundation** for multiplayer combat
 
 ## 🧠 Role & Focus Areas
 
-This project was built entirely by me as a demonstration of technical and design skills in gameplay and UI engineering.
+This project was built entirely by me as a demonstration of technical and design skills in game development.
 
 ### 🔧 Gameplay Systems
 - Designed and implemented the **color-interaction mechanic**: enemies respond differently to player light color.
