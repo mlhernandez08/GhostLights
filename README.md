@@ -1,6 +1,6 @@
 # Ghost Lights: Multiplayer Action Beat-'Em-Up (Tech Demo)
 
-**Solo Graduate Capstone Project** | Developed in **Unreal Engine 5**  
+**Developed in **Unreal Engine 5**  
 Development Time: [01/2025] – [05/2025]  
 
 ---
